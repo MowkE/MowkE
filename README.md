@@ -5,5 +5,6 @@
 <br/>
 
 <samp>my brain is shifting</samp>
- I like to learn new things
+<br/>
+ <samp>I like to learn new things</samp>
 </div>
